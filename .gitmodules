@@ -1,0 +1,3 @@
+[submodule "bmi.py"]
+	path = bmi.py
+	url = https://github.com/Por-Yu-SP/lab2.git
