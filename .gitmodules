@@ -1,6 +1,0 @@
-[submodule "bmi.py"]
-	path = bmi.py
-	url = https://github.com/Por-Yu-SP/lab2.git
-[submodule "bmi"]
-	path = bmi
-	url = https://github.com/por-yu-SP/lab2.git
